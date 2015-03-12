@@ -1,0 +1,8 @@
+Ivor Page
+Segment of size   20 placed at time    1 at location    0, departs at   11
+Segment of size   50 placed at time    2 at location   20, departs at    7
+Segment of size   70 placed at time    7 at location   20, departs at   27
+0	20	11
+20	70	27
+
+
